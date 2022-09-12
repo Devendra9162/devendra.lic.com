@@ -1,0 +1,53 @@
+.box{
+    background-color: cadetblue;
+    text-align:center;
+    height: 20px;
+    
+}
+#profile1{
+    height: 200px;
+    width: 200px;
+}
+#contact{
+    width: 15px;
+    height: 15px;
+}
+a{
+    font-size: 15px;
+    text-align:center;
+    color: white;
+    margin: 2px;
+}
+h2{
+    color: white;
+}
+#contact1{
+    color:blue;
+    font-size:15px;
+}
+#contact2{
+    color: greenyellow;
+    font-size: 15px;
+}
+.box2{
+    text-align: center;
+}
+#profile{
+    width: 375px;
+}
+#contact2{
+    width: 20px;
+    height: 15px;
+}
+.box4{
+    background-color: lightyellow;
+    padding: 12px;
+}
+.box5{
+    background-color: rgb(255, 219, 242);
+    padding: 12px;
+}
+.box6{
+    background-color: rgb(212, 255, 241);
+    padding: 12px;
+}
